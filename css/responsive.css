@@ -159,3 +159,16 @@
     }
     
 }
+
+@media only screen and (max-width: 375px){
+    .contents_container {
+        padding: 0%;
+        margin-left: 0%;
+    }
+    footer{
+        width: 100%;
+    }
+    .footer_header{
+        padding: 0%;
+    }
+}
