@@ -1,10 +1,10 @@
 const API_key = "bb280776c89d4d5abd3d4b68bcc20b7d" ;
-const API_url = "https://newsapi.org/v2/everything?sortBy=publishedAt&q=";
+const API_url = "https://newsapi.org/v2/everything?q=";
 
 window.addEventListener("load", () => fetchNews("India"));
 
 async function fetchNews(query) {
-    const response = await fetch(`${API_url}${query}&apiKey=${API_key}`);
+    const response = await fetch(`${API_url}${query}&sortBy=publishedAt&apiKey=${API_key}`);
     const data = await response.json();
     console.log(data);
     bindData(data.articles);
