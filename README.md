@@ -8,6 +8,9 @@
 ![Screenshot 2024-10-31 015622](https://github.com/user-attachments/assets/7bed2053-d701-4c06-84a5-6785785ab877)
 
 ![Screenshot 2024-10-31 015227](https://github.com/user-attachments/assets/62e475bd-f027-4111-a8b5-775c88261e41)
+# You can read complete news after clicking on "Read Complete News" button
+![Screenshot 2024-11-03 200032](https://github.com/user-attachments/assets/23f4d16c-caf9-4af5-a12b-08cc43a2fba1)
+
 
 # Responsive
 ![Screenshot 2024-11-03 195446](https://github.com/user-attachments/assets/95f22293-4dcf-468f-91f7-c7c4826dd611)
