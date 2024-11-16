@@ -7,6 +7,8 @@
 
 ![Screenshot 2024-10-31 015622](https://github.com/user-attachments/assets/7bed2053-d701-4c06-84a5-6785785ab877)
 
+![Screenshot 2024-11-16 184527](https://github.com/user-attachments/assets/72f7a9c9-f5b7-41a4-a37e-3d7559d148dc)
+
 ![Screenshot 2024-10-31 015227](https://github.com/user-attachments/assets/62e475bd-f027-4111-a8b5-775c88261e41)
 # You can read complete news after clicking on "Read Complete News" button
 ![Screenshot 2024-11-03 200032](https://github.com/user-attachments/assets/23f4d16c-caf9-4af5-a12b-08cc43a2fba1)
