@@ -2,6 +2,7 @@ function reload(){
     window.location.reload();
 }
 
+
 // for footer during loading
 window.addEventListener("load", () => {
     const foot = document.querySelector("footer");
@@ -19,6 +20,7 @@ function onCatClick(id){
     selectedClickItem.classList.add('active');
 }
 
+
 // content search box
 const contSearchInput = document.getElementById('cont_search_input');
 const contSearchBtn = document.getElementById('cont_search_btn');
@@ -32,6 +34,7 @@ contSearchBtn.addEventListener("click", () => {
     selectedClickItem?.classList.remove('active');
     selectedClickItem = null;
 })
+
 
 // country search box
 const countrySearchInput = document.getElementById('country_search_input');

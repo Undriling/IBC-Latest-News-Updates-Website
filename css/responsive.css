@@ -34,11 +34,18 @@
         width: 20vh;
     }
     .search_box button{
-        width: 7vh;
+        width: 10vh;
         height: 30px;
         margin-right: 10px;
     }
 
+    /* Loader */
+    .loading-wave{
+        width: 200px;
+        height: 300px;
+        margin: 100px;
+        margin-left: 25%;
+    }
 
 
     footer{
@@ -115,18 +122,26 @@
     .country_box{
         display: none;
     }
+
     .nav_items{
         display: flex;
     }
-    .footer_header{
-        margin-left: 18%;
+
+    .loading-wave{
+        margin: 100px;
+        margin-left: 40%;
     }
+
+    .footer_header h1,.footer_header h3,.footer_header h4,.subs_items2,.copyw{
+        margin-left: 20vh;
+    }
+
     .about{
         display: none;
     }
+
     .contents_container{
         display: flex;
-       /* padding: -5px; */
     }
 }
 

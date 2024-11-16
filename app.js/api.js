@@ -8,7 +8,25 @@ async function fetchNews(query) {
     const data = await response.json();
     console.log(data);
     bindData(data.articles);
+
+    /// Loader remove after reload
+    if(data.status == "ok"){
+        console.log("here", response)
+        const parentLoader = document.getElementById('parentLoader');
+        while (parentLoader.firstChild) {
+            parentLoader.removeChild(parentLoader.firstChild);
+
+            const elements = document.getElementsByClassName("loading-wave");
+            for (let i = 0; i < elements.length; i++) {
+                elements[i].remove();
+            }
+        }
+    }
+    else{
+        preLoader();
+    }
 }
+
 
 function bindData(articles){
     const contentscontainer = document.getElementById("contents_container");
@@ -24,6 +42,7 @@ function bindData(articles){
         contentscontainer.appendChild(contentClone);
     });
 }
+
 
 function fillDataContents(contentClone, article){
     const newsImg = contentClone.querySelector("#news_img");
