@@ -1,3 +1,5 @@
+// country search box
+
 const countrySearchInput = document.getElementById('country_search_input');
 const countrySearchBtn = document.getElementById('country_search_btn');
 
