@@ -1,4 +1,7 @@
-# IBC-Latest News Updates
+# IBC-Latest News Updates 
+- Live Link :- https://ibcnewsglobal.netlify.app
+
+
 ![Screenshot 2024-10-31 014930](https://github.com/user-attachments/assets/d43fb26a-0f30-4c55-bb21-5db3410f3e82)
 
 ![Screenshot 2024-10-31 015013](https://github.com/user-attachments/assets/c35428f7-b12f-4b17-a838-7c0460965e9c)
